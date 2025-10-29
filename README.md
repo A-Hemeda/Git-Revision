@@ -283,7 +283,7 @@ A comprehensive video course on Git and GitHub in Arabic.
 
 <br>
 
-## [Back To English Version 👆🏼](#en)
+## [👆 Back To English Version](#en)
 
 <h2 dir="rtl" align="center" id="ar">
     بسم الله الرحمن الرحيم
