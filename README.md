@@ -1,12 +1,8 @@
 ### [اضغط هنا للذهاب النسخة العربي 👉](#ar)
 
-<h2 dir="ltr" align="center" id="en">
-    بسم الله الرحمن الرحيم
-</h2>
+<h2 dir="ltr" align="center" id="en">بسم الله الرحمن الرحيم</h2>
 
-<h2 dir="ltr" align="center">
-    Git Revision
-</h2>
+<h2 dir="ltr" align="center">Git Revision</h2>
 
 This revision is designed to provide a concise overview of Git, including basic and some advanced concepts, and some of best practices for using Git in real-world scenarios. It is intended for developers, software engineers, and anyone interested in using Git to manage their code and collaborate with others.
 
@@ -285,13 +281,9 @@ A comprehensive video course on Git and GitHub in Arabic.
 
 ### [Click here to back to English Version 👈](#en)
 
-<h2 dir="rtl" align="center" id="ar">
-    بسم الله الرحمن الرحيم
-</h2>
+<h2 dir="rtl" align="center" id="ar">بسم الله الرحمن الرحيم</h2>
 
-<h2 dir="rtl" align="center">
-    مراجعة Git
-</h2>
+<h2 dir="rtl" align="center">مراجعة Git</h2>
 
 المرجع ده بيقدملك لمحة سريعة عن نظام Git، ويغطي المفاهيم الأساسية وبعض المفاهيم المتقدمة، وكمان أفضل الممارسات لاستخدام Git في مشاريع عملية. الدليل ده مخصص للمطورين، مهندسي البرمجيات، وأي حد مهتم بإدارة الكود والتعاون مع فريقه.
 
