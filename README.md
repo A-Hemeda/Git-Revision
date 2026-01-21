@@ -1,4 +1,4 @@
-### [اضغط هنا للذهاب النسخة العربي](#ar)
+### [اضغط هنا للذهاب النسخة العربي 👉](#ar)
 
 <h2 dir="ltr" align="center" id="en">
     بسم الله الرحمن الرحيم
@@ -283,7 +283,7 @@ A comprehensive video course on Git and GitHub in Arabic.
 
 <br>
 
-### [👆 English Version](#en)
+### [Click here to go to English Version 👈][[#en)
 
 <h2 dir="rtl" align="center" id="ar">
     بسم الله الرحمن الرحيم
