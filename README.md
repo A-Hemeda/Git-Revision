@@ -141,7 +141,7 @@ This revision is designed to provide a concise overview of Git, including basic 
 
 ---
 
-### 5. Git Tools <a id="GitTools"></a>
+<h2 id="GitTools1">5. Git Tools</h2>
 
 #### Important Points
 
@@ -170,7 +170,7 @@ This revision is designed to provide a concise overview of Git, including basic 
 
 ---
 
-### 6. Git Best Practices <a id="GitBestPractices"></a>
+<h2 id="GitBestPractices1">6. Git Best Practices</h2>
 
 -   **Use descriptive commit messages:** Write clear and concise commit messages that describe the changes you have made.
 -   **Commit early and often:** Committing changes frequently helps you keep track of your progress and makes it easier to undo changes if necessary.
@@ -183,7 +183,7 @@ This revision is designed to provide a concise overview of Git, including basic 
 
 ---
 
-### 7. Git Comparisons <a id="GitComparisons"></a>
+<h2 id="GitComparisons1">7. Git Comparisons</h2>
 
 #### Git vs GitHub
 
@@ -239,7 +239,7 @@ This revision is designed to provide a concise overview of Git, including basic 
 
 ---
 
-### 8. GitLab vs Git <a id="GitVsGitLab"></a>
+<h2 id="GitVsGitLab1">8. GitLab vs Git</h2>
 
 | | **Git** | **GitLab** |
 | :--- | :--- | :--- |
@@ -252,14 +252,14 @@ This revision is designed to provide a concise overview of Git, including basic 
 
 ---
 
-### 9. Merge vs Rebase <a id="MergeVsRebase"></a>
+<h2 id="MergeVsRebase1">9. Merge vs Rebase</h2>
 
 -   **Git Merge:** A non-destructive way to merge changes. It keeps a full historical record, including every merge commit, which clearly shows when branches were joined together.
 -   **Git Rebase:** Rewrites the history. It moves a series of commits from one branch to another, creating a clean, linear history. This makes the commit history look more organized, but it can be dangerous on public branches because it changes the hashes of the commits.
 
 ---
 
-### 10. Useful Git Extensions in VS Code <a id="GitExtensionsInVSCode"></a>
+<h2 id="GitExtensionsInVSCode1">10. Useful Git Extensions in VS Code</h2>
 
 -   [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 -   [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
@@ -267,7 +267,7 @@ This revision is designed to provide a concise overview of Git, including basic 
 
 ---
 
-### 11. References <a id="References"></a>
+<h2 id="References1">11. References</h2>
 
 -   [Git Pro](https://git-scm.com/book/en/v2)
 -   [Git cheat sheet (GitHub)](https://education.github.com/git-cheat-sheet-education.pdf)
