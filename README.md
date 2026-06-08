@@ -273,7 +273,8 @@ This revision is designed to provide a concise overview of Git, including basic 
 -   [Git cheat sheet (GitHub)](https://education.github.com/git-cheat-sheet-education.pdf)
 -   [Git cheat sheet (Atlassian)](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 -   [Git cheat sheet (GitLab)](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
--   [Git & GitHub شرح كورس عربي](https://www.youtube.com/watch?v=AkIpdnup6G4)
+-   [Git & GitHub YouTube Course](https://www.youtube.com/watch?v=Q6G-J54vgKc)
+-   [Git & GitHub YouTube Course](https://www.youtube.com/watch?v=AkIpdnup6G4)
 
 A comprehensive video course on Git and GitHub in Arabic.
 
@@ -915,6 +916,7 @@ A comprehensive video course on Git and GitHub in Arabic.
     <li><a href="https://education.github.com/git-cheat-sheet-education.pdf">Git cheat sheet (GitHub)</a></li>
     <li><a href="https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet">Git cheat sheet (Atlassian)</a></li>
     <li><a href="https://about.gitlab.com/images/press/git-cheat-sheet.pdf">Git cheat sheet (GitLab)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=AkIpdnup6G4">Git & GitHub كورس عربي</a></li>
+    <li><a href="https://www.youtube.com/watch?v=Q6G-J54vgKc">Git & GitHub كورس</a></li>
+    <li><a href="https://www.youtube.com/watch?v=AkIpdnup6G4">Git & GitHub كورس</a></li>
 </ul>
 <p dir="rtl">كورس فيديو شامل عن Git و GitHub بالعربي</p>
