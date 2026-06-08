@@ -8,9 +8,9 @@ This revision is designed to provide a concise overview of Git, including basic 
 
 **Revision Content**
 
-1.  [Getting Started](#GettingStarted)
-2.  [Git Basics](#Basics)
-3.  [Git Branching](#Branching)
+1.  [Getting Started](#GettingStarted1)
+2.  [Git Basics](#Basics1)
+3.  [Git Branching](#Branching1)
 4.  [Git on the Server](#GitOnTheServer)
 5.  [Git Tools](#GitTools)
 6.  [Git Best Practices](#GitBestPractices)
@@ -26,7 +26,7 @@ This revision is designed to provide a concise overview of Git, including basic 
     Revision Content
 </h2>
 
-### 1. Getting Started <a id="GettingStarted1"></a>
+<h2 id="GettingStarted1">1. Getting Started</h2>
 
 #### Important Definitions
 
@@ -53,7 +53,7 @@ This revision is designed to provide a concise overview of Git, including basic 
 
 ---
 
-### 2. Git Basics <a id="Basics1"></a>
+<h2 id="Basics1">2. Git Basics </h2>
 
 #### Important Definitions
 
