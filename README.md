@@ -11,14 +11,14 @@ This revision is designed to provide a concise overview of Git, including basic 
 1.  [Getting Started](#GettingStarted1)
 2.  [Git Basics](#Basics1)
 3.  [Git Branching](#Branching1)
-4.  [Git on the Server](#GitOnTheServer)
-5.  [Git Tools](#GitTools)
-6.  [Git Best Practices](#GitBestPractices)
-7.  [Git Comparisons](#GitComparisons)
-8.  [GitLab vs Git](#GitVsGitLab)
-9.  [Merge vs Rebase](#MergeVsRebase)
-10. [Useful Git Extensions in VS Code](#GitExtensionsInVSCode)
-11. [References](#References)
+4.  [Git on the Server](#GitOnTheServer1)
+5.  [Git Tools](#GitTools1)
+6.  [Git Best Practices](#GitBestPractices1)
+7.  [Git Comparisons](#GitComparisons1)
+8.  [GitLab vs Git](#GitVsGitLab1)
+9.  [Merge vs Rebase](#MergeVsRebase1)
+10. [Useful Git Extensions in VS Code](#GitExtensionsInVSCode1)
+11. [References](#References1)
 
 ---
 
@@ -79,7 +79,7 @@ This revision is designed to provide a concise overview of Git, including basic 
 
 ---
 
-### 3. Git Branching <a id="Branching1"></a>
+<h2 id="Branching1">3. Git Branching</h2>
 
 #### Important Definitions
 
@@ -114,7 +114,7 @@ This revision is designed to provide a concise overview of Git, including basic 
 
 ---
 
-### 4. Git on the Server <a id="GitOnTheServer1"></a>
+<h2 id="GitOnTheServer1">4. Git on the Server</h2>
 
 #### Important Definitions
 
